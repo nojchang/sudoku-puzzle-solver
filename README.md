@@ -1,5 +1,4 @@
 # sudoku-puzzle-solver
-# Sudoku Puzzle Solver
 
 This Java program, `SudokuPuzzleSolver`, is designed to solve 9x9 Sudoku puzzles. Sudoku is a popular logic-based number placement game. The program provides the ability to input a Sudoku puzzle, solve it, and display the solved puzzle if solvable.
 
